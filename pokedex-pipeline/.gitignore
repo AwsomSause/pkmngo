@@ -1,0 +1,5 @@
+data/
+manifests/
+__pycache__/
+.venv/
+!src/
